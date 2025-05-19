@@ -27,11 +27,6 @@
 
 # $\textcolor{darkblue}{Habilidades-Programação:}$
 
-## Linguagens de Programação:
-![C/C++💻](https://img.icons8.com/?size=50&id=55199&format=png)&nbsp;
-![Java☕](https://img.icons8.com/?size=50&id=100506&format=png)&nbsp;
-![Python🐍](https://img.icons8.com/?size=50&id=12592&format=png)&nbsp;
-![R📊](https://img.icons8.com/?size=96&id=CLvQeiwFpit4&format=png)&nbsp;
 
 ## ⚡🔧 Eletrônica e Sistemas Embarcados:
 ### Eletrônica

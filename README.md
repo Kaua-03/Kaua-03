@@ -1,6 +1,6 @@
 <div align="center">
 	
-# $\textcolor{darkblue}{kauã, Pedro e Kauan}$
+# $\textcolor{darkblue}{Kauã; Pedro; Kauan}$
 ### (e-mail: kauanaraujodesouza977@gmail.com)
 
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Kaua-03&show_icons=true&theme=tokyonight)
@@ -10,11 +10,9 @@
 	
 # $\textcolor{darkblue}{Escolaridade:}$
 	
-🏫 (Ensino Fundamental): .......
-
-🏫 (Ensino Médio): C.....
-
-🎓 Técnico....
+🏫 (Ensino Fundamental): Sesi Hortolândia - 437
+🏫 (Ensino Médio): Sesi Hortolândia - 437
+🎓 Técnico em Eletroeletrônica: Escola e Faculdade de tecnologia SENAI Roberto Mange
 
 
 
@@ -39,6 +37,7 @@
 ### Eletrônica
 🟩🔋Placa de Circuito e PCB
 🌡️📡Sensores e Instrumentação 
+🤖⚙️Robotica
 
 ### Microontroladores
 🏗️🛠️Assembly

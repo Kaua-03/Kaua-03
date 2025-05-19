@@ -40,9 +40,6 @@
 🤖⚙️Robotica
 
 ### Microontroladores
-🏗️🛠️Assembly
-⚙️🔌 Programação C++ e Python para Arduino/ESP32 
-⚙️🔌 Programação para Raspberry PI
 
 🌐 Redes e Comunicação
 🌍🔗📶Internet das Coisas (IoT) → 
